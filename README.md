@@ -1,4 +1,4 @@
-# Music-Player with JavaScript
+# Music-Player with PranitAcharjuNewar
 
 Function
 1) Random Song
