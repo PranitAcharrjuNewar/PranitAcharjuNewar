@@ -37,7 +37,7 @@ const music_list = [
         img : 'images/Kholai_Khola.png',
         name : 'Kholai Khola',
         artist : 'PranitAcharjuNewar',
-        music : 'music/Kholai Khola.mp3'
+        music : 'music/kholai khola.mp3'
     },
     {
         img : 'images/Poiline.png',
